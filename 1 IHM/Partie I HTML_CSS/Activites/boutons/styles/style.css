@@ -1,0 +1,23 @@
+figure{
+margin : auto;
+width:80%;
+color : rgb(100,80,200) ;
+background-color: black; 
+padding-top :10px;
+padding-bottom :10px;
+}
+
+img{
+width:50%;
+display:block;
+margin : auto;
+
+
+
+}
+h1{
+text-align: center;
+}
+figcaption{
+text-align : center;
+}

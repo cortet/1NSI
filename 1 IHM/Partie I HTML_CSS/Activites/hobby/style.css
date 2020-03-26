@@ -1,0 +1,53 @@
+#image{
+display:grid;
+grid-template-columns: auto auto auto;
+text-align:center;
+}
+img{
+width:80%;
+border: black 1px solid;
+}
+h1{
+	background-color:rgb(29 172 153);
+	color:white;
+	text-align: center;
+	padding: 15px;
+	border-style: solid;
+	border-color: rgb(50 100 100);
+	border-width: 5px;
+	
+}
+section{
+	background-color: rgb(200 200 200);
+	padding: 0% 1%;
+
+	margin: 1% 0%;
+}
+figcaption{
+	text-align:center;
+	text-indent: 0%;
+}
+header>p{
+	text-align:center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+section>p{
+	text-indent: 2em;
+}
+footer{
+	border-top: black 2px solid;
+	border-bottom: black 2px solid;
+}
+footer>p{
+	text-align: right;
+}
+	
+article {
+background-color: rgb(29 172 153) ;
+	border-style: solid;
+	border-color: rgb(0 50 50);
+	border-width: 1px;
+padding: 1em;
+margin: 1%;
+}
