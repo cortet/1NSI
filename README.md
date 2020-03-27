@@ -1,4 +1,4 @@
-# 1NSI
+## 1NSI
 cours première NSI
 
 sophie.cortet [at] ac-rennes.fr
