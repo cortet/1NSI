@@ -2,6 +2,8 @@
 cours première NSI
 
 sophie.cortet [at] ac-rennes.fr
+ou
+cortet.bts.sio [at] gmail.com
 
 Lycée Saint Sauveur / REDON
 
